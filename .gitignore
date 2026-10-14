@@ -15,6 +15,6 @@ downloads/
 cookies.txt
 
 # Personal TikTok data exports
-user_data*.json
-user_data*.txt
-*.zip
+/user_data*.json
+/user_data*.txt
+/*.zip

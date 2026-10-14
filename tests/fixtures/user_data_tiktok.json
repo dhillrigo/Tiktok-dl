@@ -1,0 +1,27 @@
+{
+  "Profile": {"Profile Information": {"ProfileMap": {"userName": "someone"}}},
+  "Activity": {
+    "Favorite Videos": {
+      "FavoriteVideoList": [
+        {"Date": "2024-03-17 10:11:12", "Link": "https://www.tiktokv.com/share/video/7301234567890123456/"},
+        {"Date": "2024-03-16 09:08:07", "Link": "https://www.tiktokv.com/share/video/7301234567890123457/"},
+        {"Date": "2024-03-15 01:02:03", "Link": "https://www.tiktokv.com/share/video/7301234567890123456/"}
+      ]
+    },
+    "Like List": {
+      "ItemFavoriteList": [
+        {"date": "2024-02-01 00:00:00", "link": "https://www.tiktokv.com/share/video/7309999999999999999/"}
+      ]
+    },
+    "Video Browsing History": {
+      "VideoList": [
+        {"Date": "2024-01-01 00:00:00", "Link": "https://www.tiktokv.com/share/video/7308888888888888888/"}
+      ]
+    },
+    "Share History": {
+      "ShareHistoryList": [
+        {"Date": "2024-01-02 00:00:00", "SharedContent": "video", "Link": "https://www.tiktokv.com/share/video/7307777777777777777/", "Method": "copy_link"}
+      ]
+    }
+  }
+}
