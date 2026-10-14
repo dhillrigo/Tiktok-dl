@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.venv/
+venv/
+
+# Downloaded videos and local state
+downloads/
+*.mp4
+*.part
+*.ytdl
+cookies.txt
+
+# Personal TikTok data exports
+user_data*.json
+user_data*.txt
+*.zip

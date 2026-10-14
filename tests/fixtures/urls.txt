@@ -1,0 +1,5 @@
+# a comment line
+https://www.tiktok.com/@creator.name/video/7301234567890123456?is_from_webapp=1
+https://vm.tiktok.com/ZMabcdefg/   # short link
+not a url
+https://example.com/not-tiktok
